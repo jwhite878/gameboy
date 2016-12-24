@@ -1,8 +1,8 @@
 package com.jwhite;
 
-public class CPU {
+class CPU {
 
-    public static void main() {
-	System.out.println("Hello world (CPU)!");
+    static void main() {
+	System.out.println("Hello world (CPU)123!");
     }
 }
